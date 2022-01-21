@@ -1,0 +1,6 @@
+Which Pokemon starter is your favorite?
+Copy this file and the file containing the art of your favorite starter to your personal Github's homework folder.
+Use `cat` to look at the files and put your answer in the next line!
+(The names are on the first line, in case you don't play Pokemon)
+Favorite starter:
+Bulbasaur!!!
