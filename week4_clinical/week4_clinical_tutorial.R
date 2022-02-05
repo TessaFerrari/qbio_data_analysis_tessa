@@ -69,10 +69,10 @@ numYoung = length(isOld)-sum(isOld)
 
 # Exercise 2.6
 isYoung = !isOld
-young_patient_ids = clinic$bcr_patient_barcode[isYoung]
+young_patient_ids = clinic$patient_id[isYoung]
 # This is a good sanity check (making sure you have the same number of patients)
 # length(young_patient_ids) == num_young #Sanity checks are always important!
-old_patient_ids = clinic$bcr_patient_barcode[isOld]
+old_patient_ids = clinic$patient_id[isOld]
 
 # Exercise 2.7
 # create the new column
