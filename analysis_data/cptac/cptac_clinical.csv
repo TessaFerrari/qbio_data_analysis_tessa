@@ -1,0 +1,211 @@
+Patient_ID,Sample_Tumor_Normal,Age,CEA,Gender,Lymphatic_Invasion,Mucinous,Perineural_Invasion,Polyps_History,Polyps_Present,Stage,Subsite,Synchronous_Tumors,Tumor.Status,Vascular_Invasion,Vital.Status,pathalogy_N_stage,pathalogy_T_stage,age_catagory
+01CO001,Tumor,60.75,4.9,Male,Yes,Mucinous,No,No,No,Stage III,Sigmoid Colon,No,Tumor free,Yes,Living,N2b,T4a,Old
+01CO005,Tumor,69.83333333333333,1.0,Female,No,Not Mucinous,No,Yes,Yes,Stage II,Sigmoid Colon,No,Tumor free,No,Deceased,N0,T3,Old
+01CO006,Tumor,75.33333333333333,,Female,Yes,Mucinous,Yes,No,No,Stage III,Ascending Colon,Yes,With tumor,Yes,Living,N2b,T4a,Old
+01CO008,Tumor,54.333333333333336,,Female,No,Mucinous,No,No,Yes,Stage II,Descending Colon,No,With tumor,No,Living,N0,T3,Old
+01CO013,Tumor,57.916666666666664,,Male,No,Not Mucinous,No,Yes,No,Stage I,Sigmoid Colon,No,Tumor free,No,Living,N0,T2,Old
+01CO014,Tumor,77.5,3.6,Female,No,Mucinous,Yes,Yes,No,Stage III,Hepatix Flexure,No,With tumor,No,Living,N2a,T3,Old
+01CO015,Tumor,88.75,1.0,Male,No,Not Mucinous,,Yes,Yes,Stage I,Cecum,No,Tumor free,,Living,N0,T2,Old
+01CO019,Tumor,63.083333333333336,3.5,Female,Yes,Mucinous,Yes,No,No,Stage III,Sigmoid Colon,Yes,With tumor,Yes,Living,N2a,T4a,Old
+01CO022,Tumor,76.75,8.1,Female,,Mucinous,,,No,Stage I,Cecum,No,Tumor free,,Living,N0,T2,Old
+05CO002,Tumor,,1.1,Female,No,Not Mucinous,No,No,No,Stage III,Sigmoid Colon,No,Tumor free,No,Living,N1a,T2,Young
+05CO003,Tumor,,1.7,Male,No,Not Mucinous,No,No,Yes,Stage II,Ascending Colon,No,Tumor free,No,Living,N0,T3,Young
+05CO004,Tumor,40.0,1.2,Female,Yes,Not Mucinous,No,Yes,Yes,Stage III,Sigmoid Colon,No,Tumor free,Yes,Living,N1b,T3,Young
+05CO005,Tumor,62.0,1.8,Male,Yes,Not Mucinous,No,No,No,Stage I,Sigmoid Colon,No,Tumor free,Yes,Living,N0,T2,Old
+05CO006,Tumor,83.0,30.5,Female,No,Not Mucinous,No,No,No,Stage III,Cecum,No,Tumor free,No,Living,N1b,T3,Old
+05CO007,Tumor,85.0,3.8,Female,Yes,Mucinous,Yes,Yes,No,Stage III,Sigmoid Colon,No,Tumor free,Yes,Living,N2b,T4a,Old
+05CO011,Tumor,39.083333333333336,2.4,Male,Yes,Not Mucinous,No,Yes,Yes,Stage II,Sigmoid Colon,No,Tumor free,Yes,Living,N0,T3,Young
+05CO014,Tumor,73.41666666666667,,Female,Yes,Not Mucinous,No,Yes,No,Stage III,,No,Tumor free,Yes,Living,N1b,T3,Old
+05CO015,Tumor,73.58333333333333,1.5,Female,No,Not Mucinous,No,,Yes,Stage II,Ascending Colon,No,Tumor free,No,Deceased,N0,T3,Old
+05CO020,Tumor,93.0,,Female,No,Not Mucinous,Yes,No,Yes,Stage II,Cecum,No,Tumor free,No,Living,N0,T3,Old
+05CO026,Tumor,70.0,1.7,Female,No,Not Mucinous,No,No,Yes,Stage III,Splenic Flexure,Yes,Tumor free,No,Living,N1a,T3,Old
+05CO028,Tumor,61.416666666666664,,Female,No,Not Mucinous,No,No,Yes,Stage I,Ascending Colon,No,Tumor free,No,Living,N0,T2,Old
+05CO029,Tumor,55.166666666666664,2.6,Female,No,Not Mucinous,No,No,Yes,Stage II,Hepatix Flexure,No,Tumor free,No,Living,N0,T3,Old
+05CO032,Tumor,79.0,2.0,Male,No,Not Mucinous,No,No,Yes,Stage III,Ascending Colon,No,Tumor free,No,Living,N1a,T3,Old
+05CO033,Tumor,61.416666666666664,1.8,Male,Yes,Mucinous,No,Yes,Yes,Stage III,Cecum,No,With tumor,Yes,Living,N2a,T2,Old
+05CO034,Tumor,54.666666666666664,1.7,Female,No,Not Mucinous,No,No,No,Stage III,Cecum,No,Tumor free,No,Living,N1a,T3,Old
+05CO035,Tumor,64.0,2.6,Female,No,Not Mucinous,No,No,Yes,Stage II,Ascending Colon,No,Tumor free,No,Living,N0,T3,Old
+05CO037,Tumor,50.083333333333336,25.0,Male,No,Mucinous,No,No,No,Stage II,Sigmoid Colon,No,Tumor free,No,Living,N0,T3,Old
+05CO039,Tumor,73.91666666666667,12.1,Male,No,Mucinous,No,No,No,Stage II,Ascending Colon,No,Tumor free,No,Deceased,N0,T4a,Old
+05CO041,Tumor,78.91666666666667,4.0,Female,No,Not Mucinous,No,No,No,Stage II,Ascending Colon,No,Tumor free,No,Living,N0,T3,Old
+05CO044,Tumor,70.58333333333333,,Female,No,Not Mucinous,No,Yes,Yes,Stage II,Descending Colon,No,Tumor free,No,Living,N0,T4a,Old
+05CO045,Tumor,75.16666666666667,4.9,Female,No,Not Mucinous,No,Yes,No,Stage III,Ascending Colon,No,Tumor free,No,Living,N1b,T3,Old
+05CO047,Tumor,56.416666666666664,,Male,No,Not Mucinous,No,Yes,Yes,Stage I,Sigmoid Colon,No,Tumor free,No,Living,N0,T2,Old
+05CO048,Tumor,78.33333333333333,2.0,Female,Yes,Mucinous,No,No,No,Stage III,Ascending Colon,No,Tumor free,Yes,Living,N2a,T4b,Old
+05CO049,Tumor,87.66666666666667,,Male,No,Not Mucinous,No,No,Yes,Stage II,Hepatix Flexure,No,Tumor free,No,Living,N0,T3,Old
+05CO050,Tumor,66.75,0.8,Female,No,Mucinous,No,No,Yes,Stage III,Cecum,No,Tumor free,No,Living,N1b,T3,Old
+05CO053,Tumor,51.666666666666664,14.3,Male,No,Not Mucinous,No,No,No,Stage II,Cecum,No,Tumor free,No,Living,N1b,T3,Old
+05CO054,Tumor,86.5,1.6,Male,No,Not Mucinous,No,Yes,Yes,Stage I,Cecum,No,Tumor free,No,Living,N0,T2,Old
+05CO055,Tumor,53.583333333333336,3.7,Female,Yes,Not Mucinous,No,No,No,Stage III,Sigmoid Colon,No,Tumor free,Yes,Living,N2b,T4a,Old
+06CO001,Tumor,75.33333333333333,4.8,Male,,Not Mucinous,,,,Stage III,Ascending Colon,No,With tumor,,Living,N1b,T3,Old
+06CO002,Tumor,73.0,,Female,Yes,Not Mucinous,No,,,Stage III,Sigmoid Colon,No,Tumor free,No,Living,N2a,T3,Old
+09CO005,Tumor,69.33333333333333,6.3,Female,Yes,Mucinous,,,Yes,Stage III,Cecum,Yes,,Yes,Living,N1a,T3,Old
+09CO006,Tumor,86.75,,Male,,,,,Yes,Stage I,Ascending Colon,Yes,,,Living,N0,T2,Old
+09CO008,Tumor,53.583333333333336,6.3,Male,Yes,Mucinous,,,Yes,Stage III,Cecum,Yes,Tumor free,Yes,Living,N1a,T3,Old
+09CO011,Tumor,75.41666666666667,3.8,Female,No,Mucinous,No,Yes,Yes,Stage I,Cecum,Yes,Tumor free,No,Living,N0,T2,Old
+09CO013,Tumor,50.416666666666664,3.1,Male,No,Mucinous,No,No,Yes,Stage III,Cecum,No,,No,Living,N1b,T3,Old
+09CO014,Tumor,66.91666666666667,1.3,Male,,Not Mucinous,No,No,Yes,Stage II,Ascending Colon,No,Tumor free,,Living,N0,T3,Old
+09CO015,Tumor,68.66666666666667,3.5,Male,No,Not Mucinous,No,No,No,Stage III,Cecum,Yes,Tumor free,No,Living,N1b,T3,Old
+09CO018,Tumor,52.75,1.7,Female,,Not Mucinous,No,No,No,Stage III,Sigmoid Colon,No,Tumor free,,Living,N1a,T2,Old
+09CO019,Tumor,87.91666666666667,,Male,No,Not Mucinous,No,No,Yes,Stage I,Hepatix Flexure,No,Tumor free,No,Living,N0,T2,Old
+09CO022,Tumor,71.75,,Female,,Mucinous,No,No,No,Stage II,Cecum,No,Tumor free,,Living,N0,T4a,Old
+11CO005,Tumor,66.0,8.24,Female,No,Not Mucinous,No,No,No,Stage III,Sigmoid Colon,No,Tumor free,No,Living,N1,T3,Old
+11CO007,Tumor,64.0,,Female,No,Not Mucinous,No,No,No,Stage II,Ascending Colon,No,Tumor free,No,Living,N0,T3,Old
+11CO008,Tumor,67.0,11.34,Female,No,Not Mucinous,No,No,No,Stage III,Sigmoid Colon,No,Tumor free,No,Living,N1,T3,Old
+11CO010,Tumor,59.0,1.78,Female,No,Not Mucinous,No,No,No,Stage II,Ascending Colon,No,Tumor free,No,Living,N0,T3,Old
+11CO018,Tumor,74.41666666666667,,Male,No,Not Mucinous,No,No,No,Stage II,Hepatix Flexure,No,Tumor free,No,Living,N0,T3,Old
+11CO019,Tumor,74.33333333333333,,Female,No,Not Mucinous,No,No,No,Stage III,Cecum,No,Tumor free,No,Living,N1b,T3,Old
+11CO020,Tumor,55.416666666666664,,Male,No,Not Mucinous,No,No,No,Stage III,Sigmoid Colon,No,Tumor free,No,Living,N1b,T3,Old
+11CO021,Tumor,74.75,,Female,No,Not Mucinous,No,No,No,Stage IV,Sigmoid Colon,No,With tumor,No,Deceased,N2a,T3,Old
+11CO022,Tumor,72.08333333333333,,Male,No,Not Mucinous,No,No,No,Stage IV,Sigmoid Colon,No,With tumor,No,Living,N0,T4b,Old
+11CO027,Tumor,55.0,,Female,No,Not Mucinous,No,No,No,Stage II,Sigmoid Colon,No,Tumor free,No,Living,N0,T3,Old
+11CO030,Tumor,54.833333333333336,14.52,Female,No,Not Mucinous,No,No,No,Stage II,Descending Colon,No,Tumor free,No,Living,N0,T3,Old
+11CO031,Tumor,53.833333333333336,1.98,Female,No,Not Mucinous,No,No,No,Stage II,Descending Colon,No,Tumor free,No,Living,N0,T3,Old
+11CO032,Tumor,57.916666666666664,3.1,Male,No,Not Mucinous,No,No,No,Stage III,Sigmoid Colon,No,Tumor free,No,Living,N1b,T3,Old
+11CO033,Tumor,54.833333333333336,4.41,Male,No,Not Mucinous,No,No,No,Stage II,Descending Colon,No,Tumor free,No,Living,N0,T3,Old
+11CO036,Tumor,36.833333333333336,5.86,Male,No,Not Mucinous,No,No,No,Stage III,Ascending Colon,No,Tumor free,No,Living,N1a,T3,Young
+11CO037,Tumor,52.333333333333336,21.18,Female,No,Not Mucinous,No,No,No,Stage III,Sigmoid Colon,No,Tumor free,No,Living,N1b,T3,Old
+11CO039,Tumor,67.83333333333333,,Female,No,Not Mucinous,No,No,No,Stage II,Sigmoid Colon,No,Tumor free,No,Living,N0,T3,Old
+11CO042,Tumor,70.66666666666667,,Male,No,Not Mucinous,No,No,No,Stage II,Splenic Flexure,No,Tumor free,No,Living,N0,T3,Old
+11CO043,Tumor,67.08333333333333,,Female,No,Not Mucinous,No,No,No,Stage II,Ascending Colon,No,Tumor free,No,Living,N0,T3,Old
+11CO044,Tumor,69.16666666666667,,Female,No,Not Mucinous,No,No,No,Stage IV,Ascending Colon,No,With tumor,No,Deceased,N1a,T3,Old
+11CO045,Tumor,71.08333333333333,,Female,No,Not Mucinous,No,No,No,Stage III,Cecum,No,Tumor free,No,Living,N1b,T3,Old
+11CO047,Tumor,65.25,,Male,No,Not Mucinous,No,No,No,Stage II,Sigmoid Colon,No,Tumor free,No,Living,N0,T3,Old
+11CO048,Tumor,64.08333333333333,,Male,No,Mucinous,No,No,No,Stage II,Cecum,No,Tumor free,No,Living,N0,T3,Old
+11CO051,Tumor,61.166666666666664,,Female,No,Not Mucinous,No,No,No,Stage II,Ascending Colon,No,Tumor free,No,Living,N0,T3,Old
+11CO052,Tumor,66.5,,Female,No,Not Mucinous,No,No,No,Stage III,Cecum,No,With tumor,No,Deceased,N2a,T3,Old
+11CO053,Tumor,63.583333333333336,,Female,No,Not Mucinous,No,No,No,Stage II,Descending Colon,No,Tumor free,No,Living,N0,T3,Old
+11CO054,Tumor,65.66666666666667,,Female,No,Not Mucinous,No,No,No,Stage II,Sigmoid Colon,No,Tumor free,No,Living,N0,T3,Old
+11CO057,Tumor,73.58333333333333,,Male,No,Not Mucinous,No,No,No,Stage III,Ascending Colon,No,Tumor free,No,Living,N1,T3,Old
+11CO058,Tumor,56.5,,Female,No,Not Mucinous,No,No,No,Stage II,Ascending Colon,No,Tumor free,No,Living,N0,T3,Old
+11CO059,Tumor,83.33333333333333,,Female,No,Not Mucinous,No,No,No,Stage II,Ascending Colon,No,Tumor free,No,Living,N0,T3,Old
+11CO060,Tumor,71.58333333333333,,Female,No,Not Mucinous,No,No,No,Stage II,Sigmoid Colon,No,Tumor free,No,Living,N0,T3,Old
+11CO061,Tumor,47.916666666666664,,Female,No,Not Mucinous,No,No,No,Stage II,Ascending Colon,No,Tumor free,No,Living,N0,T3,Young
+11CO062,Tumor,74.91666666666667,5.59,Male,No,Not Mucinous,No,No,No,Stage IV,Ascending Colon,No,Tumor free,No,Living,N0,T3,Old
+11CO070,Tumor,35.25,124.6,Male,No,Not Mucinous,No,No,No,Stage III,Sigmoid Colon,No,Tumor free,No,Living,N1b,T3,Young
+11CO072,Tumor,64.83333333333333,,Female,No,Not Mucinous,No,No,No,Stage III,Descending Colon,No,Tumor free,No,Living,N1b,T3,Old
+11CO077,Tumor,67.75,,Male,No,Not Mucinous,No,No,No,Stage II,Descending Colon,No,With tumor,No,Living,N0,T3,Old
+11CO079,Tumor,75.16666666666667,,Female,No,Not Mucinous,No,No,No,Stage III,Sigmoid Colon,No,Tumor free,No,Living,N1,T3,Old
+13CO001,Tumor,70.0,2083.0,Male,Yes,Not Mucinous,Yes,Yes,Yes,Stage III,Sigmoid Colon,No,,Yes,,N1a,T3,Old
+14CO001,Tumor,49.083333333333336,6.0,Female,Yes,Not Mucinous,Yes,No,Yes,Stage III,Sigmoid Colon,,,Yes,,N1a,T3,Young
+14CO002,Tumor,62.916666666666664,1.7,Male,,Not Mucinous,No,Yes,No,Stage II,Sigmoid Colon,,Tumor free,,Living,N0,T3,Old
+14CO003,Tumor,74.58333333333333,0.3,Female,Yes,Mucinous,,Yes,No,Stage III,Tranverse Colon,,Tumor free,No,Living,N2b,T3,Old
+14CO005,Tumor,75.16666666666667,15.5,Female,No,Mucinous,Yes,No,No,Stage II,Cecum,No,Tumor free,No,Living,N0,T3,Old
+15CO001,Tumor,57.0,0.7,Female,No,Mucinous,No,No,No,Stage III,Sigmoid Colon,Yes,Tumor free,No,Living,N1a,T3,Old
+15CO002,Tumor,53.0,0.6,Female,No,Not Mucinous,No,Yes,No,Stage II,Hepatix Flexure,No,Tumor free,No,Living,N0,T4a,Old
+16CO002,Tumor,67.5,,Male,Yes,Not Mucinous,,No,No,Stage III,Splenic Flexure,No,Tumor free,No,Living,N1,T3,Old
+16CO003,Tumor,63.166666666666664,,Female,Yes,Not Mucinous,,No,No,Stage II,Sigmoid Colon,No,Tumor free,No,Living,N0,T3,Old
+16CO006,Tumor,64.25,,Male,Yes,Not Mucinous,,No,No,Stage IV,Hepatix Flexure,No,With tumor,No,Living,N0,T3,Old
+16CO011,Tumor,59.0,,Male,Yes,Not Mucinous,,No,No,Stage III,Ascending Colon,No,Tumor free,No,Living,N1,T3,Old
+16CO012,Tumor,74.5,,Female,No,Not Mucinous,No,No,No,Stage I,Sigmoid Colon,No,Tumor free,No,Living,N0,T2,Old
+20CO001,Tumor,53.75,21.1,Female,No,Not Mucinous,No,,No,Stage III,Ascending Colon,No,Tumor free,No,Living,N1a,T3,Old
+20CO003,Tumor,60.25,3.2,Female,No,Not Mucinous,No,,No,Stage IV,Descending Colon,No,With tumor,No,Deceased,N1b,T4a,Old
+20CO004,Tumor,55.583333333333336,14.5,Male,Yes,Not Mucinous,Yes,,No,Stage III,Cecum,No,With tumor,Yes,Living,N2b,T4a,Old
+20CO006,Tumor,58.083333333333336,4.8,Male,No,Not Mucinous,No,,Yes,Stage IV,Cecum,No,With tumor,No,Living,N1a,T3,Old
+20CO007,Tumor,54.666666666666664,13.7,Male,No,Not Mucinous,No,Yes,Yes,Stage II,Descending Colon,No,Tumor free,No,Living,N0,T3,Old
+21CO006,Tumor,76.0,3.6,Male,No,Not Mucinous,No,Yes,Yes,Stage I,Sigmoid Colon,No,,No,Living,N0,T2,Old
+21CO007,Tumor,50.0,39.6,Male,Yes,Not Mucinous,No,No,,Stage IV,Sigmoid Colon,No,,Yes,Living,N2a,T4a,Old
+22CO004,Tumor,51.916666666666664,,Male,No,Not Mucinous,No,Yes,Yes,Stage II,Sigmoid Colon,No,Tumor free,No,Living,N0,T3,Old
+22CO006,Tumor,57.416666666666664,,Female,Yes,Not Mucinous,Yes,,No,Stage III,Ascending Colon,No,With tumor,Yes,Living,N2b,T3,Old
+24CO005,Tumor,41.0,1.2,Female,No,Not Mucinous,No,No,No,Stage III,Sigmoid Colon,No,Tumor free,No,Living,N1b,T2,Young
+27CO004,Tumor,50.833333333333336,,Female,Yes,Not Mucinous,,,No,Stage III,Cecum,,Tumor free,Yes,Living,N2a,T3,Old
+01CO001.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+01CO005.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+01CO006.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+01CO008.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+01CO013.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+01CO014.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+01CO015.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+01CO019.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+01CO022.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO002.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO003.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO006.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO007.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO011.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO015.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO020.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO026.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO028.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO029.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO032.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO033.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO034.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO035.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO037.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO039.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO041.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO044.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO045.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO047.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO048.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO049.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO050.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO053.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+05CO054.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+06CO001.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+06CO002.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+09CO005.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+09CO006.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+09CO008.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+09CO011.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+09CO013.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+09CO014.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+09CO015.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+09CO018.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+09CO019.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+09CO022.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO005.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO007.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO008.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO010.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO018.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO019.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO020.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO021.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO022.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO027.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO030.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO031.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO032.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO033.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO036.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO037.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO039.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO042.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO043.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO044.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO045.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO047.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO048.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO051.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO052.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO053.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO054.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO057.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO058.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO060.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO061.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO062.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO070.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO072.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO077.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+11CO079.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+14CO002.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+14CO005.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+15CO001.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+15CO002.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+16CO002.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+16CO003.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+16CO006.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+16CO011.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+20CO001.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+20CO003.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+20CO004.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+20CO006.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+20CO007.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+21CO006.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+21CO007.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+22CO004.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+22CO006.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
+27CO004.N,Normal,,,,,,,,,No cancer,,,,,,,,Young
